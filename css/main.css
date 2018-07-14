@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+p {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: 3rem;
+  line-height: 1.5rem;
+  color: white;
+}
